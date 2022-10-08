@@ -1,8 +1,10 @@
 # 997-Hours-Wuhan-Dialect-Speech-Data-by-Mobile-Phone
-https://www.datatang.ai/datasets/942
+
 
 ## Description
 Mobile phone captured audio data of Wuhan dialect, 997 hours in total, recorded by more than 2,000 Wuhan dialect native speakers. The recorded text covers generic, interactive, on-board, home and other categories, with rich contents. Wuhan locals participate in quality check and proofreading. Sentence accuracy rate reaches 95 %; this data set can be used for automatic speech recognition, machine translation, and voiceprint recognition.
+
+For more details, please refer to the link: https://bit.ly/3SeCeiM
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
@@ -30,3 +32,6 @@ Wuhan dialect
 
 ## Application scenarios
 speech recognition, voiceprint recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
